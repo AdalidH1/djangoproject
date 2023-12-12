@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(212, 241, 248);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0px;
+}
+.content {
+    margin: 20px;
+}
+a {
+    text-decoration: none;
+    margin: 50px;
+}
+input{
+    border-radius: 8px;
+}
+
+.navbar {
+    background-color: #04bdd6;
+    padding: 5px 0px 5px 0px;
+}
+
+.navbar ul {
+    display: flex;
+}
+
+.navbar ul li {
+    list-style: none;
+}
+
+.navbar ul li a button {
+    border: none;
+    padding: 0px 40px 0px 40px;
+    cursor: pointer;
+    background-color: #04bdd6;
+}
+
+
